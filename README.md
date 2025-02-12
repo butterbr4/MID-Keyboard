@@ -51,7 +51,7 @@ Nosso objetivo com o projeto foi expandir as funcionalidades do **pianinho** ori
 - As mensagens são armazenadas em um bloco de memória (BRAM) com uma taxa de amostragem específica (e.g., 10 kHz). Isso significa que os eventos são registrados em intervalos regulares para garantir a precisão temporal durante a reprodução.
 
 <div align="center">
-    <img src="./insira_link_botao_switch_aqui" alt="Snippet da lógica de conexão do módulo de Gravação/Loop" width="400"/>
+    <img src="./insira_link_botao_switch_aqui" alt="Snippet da lógica de conexão do módulo de Gravação/Loop" width="800"/>
 </div>
 
 
@@ -62,7 +62,7 @@ Nosso objetivo com o projeto foi expandir as funcionalidades do **pianinho** ori
 - Essa funcionalidade permite salvar as sequências musicais criadas no teclado para uso posterior ou processamento adicional.
 
 <div align="center">
-    <img src="./insira_link_botao_switch_aqui" alt="Snippet da conexão UART" width="400"/>
+    <img src="./insira_link_botao_switch_aqui" alt="Snippet da conexão UART" width="600"/>
 </div>
 
 ---
@@ -72,7 +72,7 @@ Nosso objetivo com o projeto foi expandir as funcionalidades do **pianinho** ori
 - Isso fornece feedback visual imediato ao usuário, mostrando qual nota está sendo tocada.
 
 <div align="center">
-    <img src="./Display.png" alt="Snippet da conexão do display" width="400"/>
+    <img src="./Display.png" alt="Snippet da conexão do display" width="600"/>
 </div>
 
 ---
@@ -82,7 +82,7 @@ Nosso objetivo com o projeto foi expandir as funcionalidades do **pianinho** ori
 - Quando dois ou mais botões são pressionados simultaneamente, o som resultante é uma combinação das frequências correspondentes, gerando um som único e personalizado.
 
 <div align="center">
-    <img src="./OR7b.png" alt="Snippet do módulo OR criado" width="400"/>
+    <img src="./OR7b.png" alt="Snippet do módulo OR criado" width="800"/>
 </div>
 
 ---
@@ -96,7 +96,7 @@ Nosso objetivo com o projeto foi expandir as funcionalidades do **pianinho** ori
   - Controlar o estado de LEDs ou outros dispositivos.
 
 <div align="center">
-    <img src="./Conexao_Loop.png" alt="Snippet do Botão como Switch" width="400"/>
+    <img src="./Conexao_Loop.png" alt="Snippet do Botão como Switch" width="800"/>
 </div>
 
 ---
