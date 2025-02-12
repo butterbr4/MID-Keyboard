@@ -7,9 +7,9 @@ Aqui está o arquivo `README.md` atualizado para o projeto "Teclado MID", inclui
 
 # Projeto "Teclado MID"
 
-<p align="center">
-  ![Imagem do protótipo do Teclado MID](Pianinho.png)
-</p>
+<div align="center">
+    <img src=".TecladoMID.png" alt="Protótipo do Teclado MID" width="400"/>
+</div>
 
 ---
 
@@ -50,9 +50,10 @@ Nosso objetivo com o projeto foi expandir as funcionalidades do **pianinho** ori
   - Ao pressionar novamente, o sistema para a gravação e inicia a reprodução automática da sequência gravada.
 - As mensagens são armazenadas em um bloco de memória (BRAM) com uma taxa de amostragem específica (e.g., 10 kHz). Isso significa que os eventos são registrados em intervalos regulares para garantir a precisão temporal durante a reprodução.
 
-<p align="center">
-![Snippet da lógica de conexão do módulo de Gravação/Loop](insira_link_botao_switch_aqui)
-</p>
+<div align="center">
+    <img src=".insira_link_botao_switch_aqui" alt="Snippet da lógica de conexão do módulo de Gravação/Loop" width="400"/>
+</div>
+
 
 ---
 
@@ -60,9 +61,9 @@ Nosso objetivo com o projeto foi expandir as funcionalidades do **pianinho** ori
 - As mensagens MIDI gravadas podem ser enviadas para um computador ou outro dispositivo externo via **UART**.
 - Essa funcionalidade permite salvar as sequências musicais criadas no teclado para uso posterior ou processamento adicional.
 
-<p align="center">
-![Snippet da conexão UART](insira_link_botao_switch_aqui)
-</p>
+<div align="center">
+    <img src=".insira_link_botao_switch_aqui" alt="Snippet da conexão UART" width="400"/>
+</div>
 
 ---
 
@@ -70,9 +71,9 @@ Nosso objetivo com o projeto foi expandir as funcionalidades do **pianinho** ori
 - As notas tocadas são identificadas e exibidas em tempo real no display de 7 segmentos.
 - Isso fornece feedback visual imediato ao usuário, mostrando qual nota está sendo tocada.
 
-<p align="center">
-![Snippet da conexão do display aqui](Display.png)
-</p>
+<div align="center">
+    <img src=".Display.png" alt="Snippet da conexão do display" width="400"/>
+</div>
 
 ---
 
@@ -80,9 +81,9 @@ Nosso objetivo com o projeto foi expandir as funcionalidades do **pianinho** ori
 - Um módulo customizado de porta OR foi desenvolvido para permitir combinações de notas.
 - Quando dois ou mais botões são pressionados simultaneamente, o som resultante é uma combinação das frequências correspondentes, gerando um som único e personalizado.
 
-<p align="center">
-![Snippet do módulo OR criado](OR7b.png)
-</p>
+<div align="center">
+    <img src=".OR7b.png" alt="Snippet do módulo OR criado" width="400"/>
+</div>
 
 ---
 
@@ -94,9 +95,9 @@ Nosso objetivo com o projeto foi expandir as funcionalidades do **pianinho** ori
   - Ativar/desativar funcionalidades específicas.
   - Controlar o estado de LEDs ou outros dispositivos.
 
-<p align="center">
-![Snippet do Botão como Switch](Conexao_Loop.png)
-</p>
+<div align="center">
+    <img src=".Conexao_Loop.png" alt="Snippet do Botão como Switch" width="400"/>
+</div>
 
 ---
 
