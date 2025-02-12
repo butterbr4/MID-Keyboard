@@ -8,7 +8,7 @@ Aqui está o arquivo `README.md` atualizado para o projeto "Teclado MID", inclui
 # Projeto "Teclado MID"
 
 <div align="center">
-    <img src="./TecladoMID.png" alt="Protótipo do Teclado MID" width="400"/>
+    <img src="./TecladoMID.png" alt="Protótipo do Teclado MID" width="900"/>
 </div>
 
 ---
