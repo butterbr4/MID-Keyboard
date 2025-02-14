@@ -1,8 +1,6 @@
 # MID-Keyboard
 Not a MIDI keyboard
 
-Aqui está o arquivo `README.md` atualizado para o projeto "Teclado MID", incluindo todas as funcionalidades discutidas até agora e deixando espaço para imagens e explicações detalhadas:
-
 ---
 
 # Projeto "Teclado MID"
