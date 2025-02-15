@@ -6,7 +6,7 @@ Not a MIDI keyboard
 # Projeto "Teclado MID"
 
 <div align="center">
-    <img src="./TecladoMID.png" alt="Protótipo do Teclado MID" width="900"/>
+    <img src="./TecladoMID_v2.png" alt="Protótipo do Teclado MID" width="900"/>
 </div>
 
 ---
@@ -69,7 +69,7 @@ Not a MIDI keyboard
 - Isso fornece feedback visual imediato ao usuário, mostrando qual nota está sendo tocada.
 
 <div align="center">
-    <img src="./Display.png" alt="Snippet da conexão do display" width="600"/>
+    <img src="./Display_v2.png" alt="Snippet da conexão do display" width="600"/>
 </div>
 
 ---
