@@ -14,7 +14,7 @@ Not a MIDI keyboard
 ## **Sumário**
 1. [Introdução](#introdução)
 2. [Funcionalidades Implementadas](#funcionalidades-implementadas)
-   - [Mapeamento de Frequências em Formato MIDI](#mapeamento-de-frequências-em-formato-midi)
+   - [Mapeamento de Frequências Inspirado no Formato MIDI](#mapeamento-de-frequências-em-formato-midi)
    - [Sistema de Loop com Gravação e Reprodução](#sistema-de-loop-com-gravação-e-reprodução)
    - [Envio de Mensagens via UART](#envio-de-mensagens-via-uart)
    - [Identificação das Notas no Display de 7 Segmentos](#identificação-das-notas-no-display-de-7-segmentos)
@@ -32,11 +32,9 @@ Not a MIDI keyboard
 
 ## **Features**
 
-### **Mapeamento de Frequências em Formato MIDI**
+### **Mapeamento de Frequências Inspirado no Formato MIDI**
 - Cada nota tocada no teclado é representada por uma mensagem no estilo do protocolo MIDI:
-  - **Note On**: Indica o início da reprodução de uma nota.
   - **4 bits para Frequência**: Representa a nota específica (até 16 notas diferentes).
-  - **Note Off**: Indica o fim da reprodução de uma nota.
 - Esse mapeamento permite uma representação compacta e padronizada das notas, facilitando futuras integrações com sistemas MIDI.
 
 ---
