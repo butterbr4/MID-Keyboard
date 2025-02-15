@@ -27,8 +27,7 @@ Not a MIDI keyboard
 
 ## **Introdução**
 
-Nosso objetivo com o projeto foi expandir as funcionalidades do **pianinho** original, transformando-o em um teclado mais versátil e interativo. Para isso, tentamos implementar diversas features que vão desde o mapeamento de frequências em formato MIDI até a gravação e reprodução de sequências musicais.
-
+Nosso objetivo com o projeto foi expandir as funcionalidades do **pianinho** original, transformando-o em um teclado mais versátil e interativo. Para isso, implementamos diversas features que vão desde o mapeamento de frequências no formato MIDI, a adição de sustenidos, até a gravação e reprodução de sequências musicais.
 ---
 
 ## **Features**
