@@ -1,3 +1,9 @@
+# Autores
+
+- André Luiz Santos Messias ([andre.messias@usp.br](mailto:andre.messias@usp.br))  
+- Mateus Santos Messias ([mateus.messias@usp.br](mailto:mateus.messias@usp.br))  
+- Pedro Borges Gudin ([pedro.gudin@usp.br](mailto:pedro.gudin@usp.br))
+
 # MID-Keyboard
 *Não é um dispositivo MIDI completo, mas utiliza conceitos semelhantes.*
 
